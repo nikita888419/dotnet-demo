@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\bin\Debug\net8.0\dotnet-demo.exe
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\bin\Debug\net8.0\dotnet-demo.deps.json
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\bin\Debug\net8.0\dotnet-demo.runtimeconfig.json
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\bin\Debug\net8.0\dotnet-demo.dll
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\bin\Debug\net8.0\dotnet-demo.pdb
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.AssemblyInfo.cs
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.dll
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\refint\dotnet-demo.dll
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.pdb
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\dotnet-demo.genruntimeconfig.cache
+C:\Users\dell\Desktop\jenkinsnew\jenkinsubuntu\dotnet-demo\obj\Debug\net8.0\ref\dotnet-demo.dll
