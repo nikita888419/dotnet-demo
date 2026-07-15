@@ -32,7 +32,7 @@ jobs:
         run: dotnet tool install -g dotnet-format
 
       - name: Run Lint Check
-        run: dotnet format --verify-no-changes --verbosity diagnostic
+        run: dotnet format dotnet-demo.sln --verify-no-changes --verbosity diagnostic
 
       - name: Run Unit Tests
         run: |
