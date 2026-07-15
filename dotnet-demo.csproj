@@ -5,6 +5,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- Temporarily disable generated assembly info -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Exclude the test project folder -->
+    <Compile Remove="dotnet-demo.Tests\**\*.cs" />
+    <EmbeddedResource Remove="dotnet-demo.Tests\**" />
+    <None Remove="dotnet-demo.Tests\**" />
+  </ItemGroup>
 
 </Project>
